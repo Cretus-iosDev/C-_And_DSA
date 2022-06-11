@@ -1,4 +1,4 @@
-# C plus plus And DSA
+# C++ And DSA
 
 Hello There!!!
 Here, I'll be post my day to day coding journey. Also Learning DSA using C++.
